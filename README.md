@@ -1,2 +1,2 @@
 # HC-SR501_Win10IoT
-HC-SR501 on RPI for Win10 IoT
+Using HC-SR501 sensor on RPI with Window10 for IoT
