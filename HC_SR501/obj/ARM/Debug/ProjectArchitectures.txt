@@ -1,0 +1,1 @@
+C:\Users\phili\Documents\Visual Studio 2017\Projects\HC-RS红外_test\HC-RS红外_test\HC_SR501.csproj;arm

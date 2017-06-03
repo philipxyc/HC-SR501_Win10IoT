@@ -1,0 +1,9 @@
+﻿<Application
+    x:Class="HC_RS红外_test.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HC_RS红外_test"
+    RequestedTheme="Light">
+
+</Application>
+
